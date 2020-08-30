@@ -1,0 +1,16 @@
+[
+  {
+    "UserId": 0,
+    "Username": "",
+    "Password": "",
+    "DateCreated": "0001-01-01T00:00:00",
+    "Posts": null
+  },
+  {
+    "UserId": 1,
+    "Username": "Admin",
+    "Password": "1234",
+    "DateCreated": "2020-08-07T22:22:04.8032965+01:00",
+    "Posts": null
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "Id": 0,
+    "Experience": "",
+    "Venue": "",
+    "Address": "",
+    "Latitude": 0.0,
+    "Longitude": 0.0,
+    "Distance": 0,
+    "CategoryName": "",
+    "CategoryId": "",
+    "UserId": 0,
+    "User": null
+  },
+  {
+    "Id": 1,
+    "Experience": "this is the new",
+    "Venue": "akure",
+    "Address": "otta new",
+    "Latitude": 0.32,
+    "Longitude": 0.11,
+    "Distance": 10,
+    "CategoryName": "bank",
+    "CategoryId": "abeokuta",
+    "UserId": 1,
+    "User": null
+  }
+]
